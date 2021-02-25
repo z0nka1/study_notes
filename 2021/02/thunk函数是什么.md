@@ -13,4 +13,4 @@ isString("123");    // true
 isArray([1,2,3]);   // true
 ```
 
-像isType这样可以生成一个函数的函数叫做thunk函数。
+像isType这样，接收一定的参数，然后生产出定制化函数的函数，叫做thunk函数。
