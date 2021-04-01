@@ -16,3 +16,5 @@
 <link rel='preconnect' href='xxx.com'>
 <link rel='dns-prefetch' href='xxx.com'>
 ```
+
+source: [https://web.dev/uses-rel-preconnect/](https://web.dev/uses-rel-preconnect/)
